@@ -1,0 +1,9 @@
+ikon,nama,deskripsi,persyaratan,waktu
+📋,Surat Keterangan Domisili,Surat keterangan tempat tinggal resmi warga kelurahan.,"KTP asli, KK asli, Surat Pengantar RT/RW",1 hari kerja
+📝,Surat Pengantar KTP/KK,Pengantar untuk pengurusan KTP dan Kartu Keluarga baru.,"KK lama, Surat Pengantar RT/RW, Fotokopi KTP",1 hari kerja
+💼,Surat Keterangan Usaha,Keterangan resmi bagi warga yang memiliki usaha di wilayah kelurahan.,"KTP, KK, Foto tempat usaha",1-2 hari kerja
+🏠,Surat Keterangan Tidak Mampu,Untuk keperluan beasiswa dan biaya kesehatan.,"KTP, KK, Surat Pengantar RT/RW",1-2 hari kerja
+👶,Surat Keterangan Kelahiran,Pengantar untuk pembuatan akta kelahiran anak.,"KTP Orang Tua, KK, Surat Keterangan Lahir dari RS/Bidan",1 hari kerja
+⚰️,Surat Keterangan Kematian,Dokumen resmi pencatatan kematian warga kelurahan.,"KTP Almarhum, KK, Surat Keterangan dari RT/RW",1 hari kerja
+🎓,Surat Keterangan untuk Beasiswa,Mendukung pengajuan beasiswa bagi warga berprestasi.,"KTP, KK, SKTM, Bukti Pendaftaran Beasiswa",1-2 hari kerja
+🔗,Legalisir Dokumen,Legalisir surat dan dokumen resmi dari kelurahan.,"Dokumen asli + Fotokopi, KTP pemohon",1 hari kerja
